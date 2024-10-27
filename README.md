@@ -9,7 +9,7 @@ Bu proje, **Hotel Booking** verileri üzerinde çeşitli analizler yaparak otell
 
 ## Kullanılan Teknolojiler
 - **Excel**: Verilerin işlenmesi ve düzenlenmesi için.
-- **Power BI**: Verilerin analiz edilmesi ve görselleştirilmesi için.
+- **Power BI**: Verilerin analiz edilmesi ve görselleştirilmesi için, ayrıca hesaplamalar için DAX formülleri kullanılmıştır.
 
 ## Analiz İçeriği
 - **Genel Bakış**: Otel sayısı, ortalama günlük fiyat ve ortalama kalış süresi gibi temel metrikler.
@@ -32,8 +32,8 @@ This project aims to evaluate hotel booking data by analyzing reservation, custo
 
 ## Technologies Used
 - **Excel**: For data processing and organization.
-- **Power BI**: For data analysis and visualization.
-
+- **Power BI**: For data analysis and visualization, with additional calculations using DAX formulas.
+  
 ## Analysis Overview
 - **Overview**: Key metrics such as hotel count, average daily rate, and average length of stay.
 - **Hotel Performance**: Reservation count, cancellation rate, and revenue by country and customer distribution.
